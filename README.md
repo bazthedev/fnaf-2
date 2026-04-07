@@ -1,16 +1,10 @@
- 
-
-
 > Open this page at [https://bazthedev.github.io/fnaf-2/](https://bazthedev.github.io/fnaf-2/)
 
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/bazthedev/fnaf-2** and import
+## Controls
+* Press A to open/close the cameras
+* Press B in the office to put on the Mask
+* Press B on the cameras to use the light
+* Click and move the mouse to interact with lights and buttons!
 
 ## Edit this project
 
